@@ -1,53 +1,62 @@
 # TEDxJUET
 
-In the spirit of ideas worth spreading, TED has created TEDx which is a program of local, self-organized events that bring people together to share a TED-like experience, around a specific theme. TEDx events are independently licensed experiences which bring together thinkers, innovators and artists in one assembly, with the intention of promoting “Ideas Worth Spreading.”
+Welcome to the TEDxJUET GitHub repository! We're excited that you're interested in contributing to our project. Below, you'll find all the information you need to get started.
 
-TEDxJUET brings the unique TED experience to Guna. TEDxJUET is a curated, day-long, immersive live experience bringing speakers, artists, and audience members together with the purpose of sharing perspectives, sparking deep discussions, and inspiring positive networks and impactful actions around ideas that matter. Our aim is to provide a platform where thinkers, visionaries, and learners will be inspired to give talks on a wide array of idea-focused topics to foster learning, provoke conversations that matter, and inspire others.
+## About TEDxJUET
+
+In the spirit of ideas worth spreading, TED has created TEDx, a program of local, self-organized events that bring people together to share a TED-like experience, centered around a specific theme. TEDx events are independently organized, aiming to gather thinkers, innovators, and artists in one place to promote "Ideas Worth Spreading."
+
+**TEDxJUET** is a unique event that brings the TED experience to Guna. It's a curated, day-long, immersive experience that brings together speakers, artists, and an engaged audience. The purpose is to share diverse perspectives, spark deep discussions, and inspire positive connections and impactful actions around ideas that truly matter. Our goal is to provide a platform where thinkers, visionaries, and learners can give talks on a wide range of idea-focused topics, fostering learning, meaningful conversations, and inspiration for others.
+
+## Contributors
+
+We want to acknowledge and thank all our amazing contributors for their valuable contributions to TEDxJUET. Here are the names of some of the individuals who have made this project possible:
+
+- [Hardik Sharma(https://github.com/hardiksharma02)
+- [Eric Chen(https://github.com/ericmchen15)
+
+
+We appreciate all the time and effort you've invested in making TEDxJUET better.
 
 ## Contributing
 
-[pr]: https://github.com/raise-dev/hacktoberfest/compare
-[style]: https://github.com/bbatsov/ruby-style-guide
+We welcome your contributions to TEDxJUET. Your help is essential for keeping this project great. Here's how you can get involved:
 
-Hi there! We're thrilled that you'd like to contribute to Hacktoberfest. Your help is essential for keeping it great.
+### Opening an Issue
 
-Contributions to this project are [released](https://help.github.com/articles/github-terms-of-service/#6-contributions-under-repository-license) to the public under the [project's open source license](LICENSE).
+If you encounter a problem or have a suggestion, please consider opening an issue. Your feedback helps us improve TEDxJUET. Before opening an issue, please search GitHub to ensure your issue hasn't already been reported. Here are some tips for creating a helpful issue:
 
-## Opening an issue
+- Use a descriptive title that gives an idea of what your issue is about.
+- Provide a detailed description of the issue. One-word descriptions are hard to understand.
+- If relevant, include screenshots or links.
 
-Thank you for taking the time to open an issue, your feedback helps make Hacktoberfest better.
-Before opening an issue, please be sure that your issue hasn't already been asked by using [GitHub search](https://help.github.com/articles/searching-issues/)
+### Submitting a Pull Request
 
-Here are a few things that will help us help resolve your issues:
+If you'd like to make a direct contribution, follow these steps:
 
-- A descriptive title that gives an idea of what your issue refers to
-- A thorough description of the issue, (one word descriptions are very hard to understand)
-- Screenshots (if appropriate)
-- Links (if appropriate)
+1. Clone the repository.
+2. Configure and install the necessary dependencies (see the README for more details).
+3. Ensure that the tests pass on your machine (you can run `script/test`).
+4. Create a new branch for your changes: `git checkout -b my-branch-name`.
+5. Make your changes, add tests, and ensure that the tests still pass.
+6. Push your branch and submit a pull request.
+7. Wait for your pull request to be reviewed and merged!
 
-## Submitting a pull request
+Here are some tips to increase the likelihood of your pull request being accepted:
 
-0. Clone the repository
-0. Configure and install the dependencies: (See the [README](README.md) for more details)
-0. Make sure the tests pass on your machine: `script/test`
-0. Create a new branch: `git checkout -b my-branch-name`
-0. Make your change, add tests, and make sure the tests still pass
-0. Push to your branch and [submit a pull request][pr]
-0. Wait for your pull request to be reviewed and merged!
-
-Here are a few things you can do that will increase the likelihood of your pull request being accepted:
-
-- Follow the [style guide][style].
-- Write tests.
-- Keep your change as focused as possible. If there are multiple changes you would like to make that are not dependent upon each other, consider submitting them as separate pull requests.
-- Write a [good commit message](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html).
+- Follow the style guide.
+- Write tests for your changes.
+- Keep your changes focused. If there are multiple unrelated changes, submit them as separate pull requests.
+- Write a clear and informative commit message.
 
 ## Resources
 
-- [Contributing to Open Source on GitHub](https://guides.github.com/activities/contributing-to-open-source/)
-- [Using Pull Requests](https://help.github.com/articles/using-pull-requests/)
-- [GitHub Help](https://help.github.com)
+If you're new to contributing to open source projects on GitHub, or if you need help with pull requests, you can find additional resources here:
 
-## Website for TEDxJUET
+- [Contributing to Open Source on GitHub](https://opensource.guide/how-to-contribute/)
+- [Using Pull Requests](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests)
+- [GitHub Help](https://help.github.com/)
 
-[tedxjuet.com](https://tedxjuet.com)
+## TEDxJUET Website
+
+For more information about TEDxJUET, please visit our [website](https://tedxjuet.com).
